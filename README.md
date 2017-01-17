@@ -1,9 +1,13 @@
 # Instachat
 
+Trying the phoenix framework with this tutorial:
+
+[(Video) Elixir + Phoenix : Building a simple chatroom](https://www.youtube.com/watch?v=e5jlIejl9Fs)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
-  * Install Node.js dependencies with `npm install`
+  * Install Node.js dependencies with `npm install` (npm >= 3.x plz)
   * Start Phoenix endpoint with `mix phoenix.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
